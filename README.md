@@ -1,6 +1,7 @@
 # Retail Store Analysis
 
 COLAB: https://colab.research.google.com/github/rameshavinash94/Retail-Store-Analysis/blob/main/Project_Retail_store.ipynb
+
 **Project Motivation**
 
 **Clustering**: Customer segmentation and to get a better understanding of the group of customers who are at risk of churn so that retail stores can proactively engage with such customers to retain them.
